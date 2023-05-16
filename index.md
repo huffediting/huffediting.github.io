@@ -3,7 +3,7 @@ layout: page
 title: "Writing and Editing Services for Academic Papers and Applications"
 ---
 
-Examples are listed below:
+Examples are linked below:
 
 [Here is a graduate school application essay edited by me.][1]
 
