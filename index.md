@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Writing and Editing Services for Academic Papers and Applications - Examples Below"
+title: "Writing and Editing Services for Academic Papers and Applications"
 ---
+
+Examples are listed below:
 
 [Here is a graduate school application essay edited by me.][1]
 
