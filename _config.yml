@@ -1,7 +1,7 @@
 title: "Ao Wen Writing"
 author: "Ao Wen"
 description: "ao.wen.writing@gmail.com"
-permalink: /:title/
+permalink: /:title.html
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
