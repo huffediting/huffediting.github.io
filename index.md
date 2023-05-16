@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Writing and Editing Services for Academic Papers and Applications"
+title: "Writing and Editing Services for Academic Papers and Applications - Examples Below"
 ---
 
 [Here is a graduate school application essay edited by me.][1]
@@ -10,5 +10,5 @@ title: "Writing and Editing Services for Academic Papers and Applications"
 
 [Here is part of a scientific paper edited by me.][2]
 
-[2]:{{ ao-wen-writing.github.io }}/file/paper_example.pdf
+[2]:{{ ao-wen-writing.github.io }}/file_again/scientific_paper.pdf
 
