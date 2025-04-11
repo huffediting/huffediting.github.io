@@ -7,10 +7,10 @@ Examples are linked below:
 
 [Here is a graduate school application essay edited by me.][1]
 
-[1]:{{ ao-wen-writing.github.io }}/file/application_example.pdf
+[1]:{{ huffediting.github.io }}/file/application_example.pdf
 
 
 [Here is part of a scientific paper edited by me.][2]
 
-[2]:{{ ao-wen-writing.github.io }}/file_again/scientific_paper.pdf
+[2]:{{ huffediting.github.io }}/file_again/scientific_paper.pdf
 
