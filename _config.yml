@@ -1,6 +1,6 @@
-title: "Ao Wen 翱文 Writing"
-author: "Ao Wen"
-description: "ao.wen.writing@gmail.com"
+title: "Huff Editing"
+author: "Owen Huff"
+description: "huffediting@gmail.com"
 permalink: /:title.html
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: About Me}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ao.wen.writing@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:huffediting@gmail.com"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
